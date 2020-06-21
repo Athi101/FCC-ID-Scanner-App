@@ -3,6 +3,3 @@
  
 ## Installation
 Clone this repository and import into **Android Studio**
-```bash
- git clone https://github.com/Athi101/FCC-ID-Scanner-App.git
-```    
